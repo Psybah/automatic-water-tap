@@ -49,14 +49,14 @@ The Arduino code for the project is located in the `Code` folder. To upload the 
 
 
 
-##Challenges and Learnings
+## Challenges and Learnings
 - Challenges: Initial difficulties with the ultrasonic sensor readings and servo motor movement.
 - Learnings: Improved understanding of Arduino programming and hardware troubleshooting.
 
 
 
-##Contributors
-Abiodun Oluwamurewa - Project Lead
-Ewansiha Victory - Assitanct Project Lead
-All members of Group B - 
+## Contributors
+- Abiodun Oluwamurewa - Project Lead
+- Ewansiha Victory - Assitanct Project Lead
+- All members of Group B 
 
