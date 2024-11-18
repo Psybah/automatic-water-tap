@@ -20,7 +20,7 @@ This repository contains the code and documentation for an **Automatic Water Tap
 
 
 ## Circuit Diagram  
-![Circuit Diagram](./CircuitDiagram/circuit_diagram.png)
+![Circuit Diagram](./CircuitDiagram/circuit_diagram.jpeg)
 
 
 
